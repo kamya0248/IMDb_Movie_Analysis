@@ -39,14 +39,7 @@ This project focuses on analyzing IMDB movie data to identify factors influencin
    - Understanding these can aid filmmakers and investors in making informed decisions.
 
 ## Project Report
-For a more detailed analysis and insights, please check out the uploaded project report [here](link-to-your-pdf-file).
+For a more detailed analysis and insights, please check out the uploaded project report [here](https://github.com/kamya0248/IMDb_Movie_Analysis/blob/main/detailed%20project%20report.pdf).
 
 ## Conclusion
 This analysis provides valuable insights into the factors that influence movie ratings on IMDB, which can be beneficial for filmmakers, marketers, and investors looking to understand audience preferences and trends.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-Thanks to the data sources and tools that made this analysis possible.
-
