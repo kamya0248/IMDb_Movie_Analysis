@@ -1,5 +1,5 @@
 # IMDb_Movie_Analysis
-This Project explores factors influencing movie success, focusing on genre, duration, language, director, and budget. Using Excel for data analysis, we identify patterns and correlations that inform stakeholders on audience preferences. The goal is to provide actionable insights to enhance decision-making in film production and marketing.
+This project explores factors influencing movie success, focusing on genre, duration, language, director, and budget. Using Excel for data analysis, we identify patterns and correlations that inform stakeholders on audience preferences. The goal is to provide actionable insights to enhance decision-making in film production and marketing.
 
 ## Overview
 This project focuses on analyzing IMDB movie data to identify factors influencing movie ratings. The analysis includes various elements such as genres, durations, languages, directors, and budgets, aiming to uncover insights that can help in understanding what contributes to higher IMDB scores.
